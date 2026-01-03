@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm a small, young dev having fun with the things he learns everyday.
 
-# GPG Key
+## GPG Key
 [1C1F 26B7 0CA6 FF3D 22F1  FD48 B67F 00A7 77C1 6968](https://raw.githubusercontent.com/SpeedyGo55/SpeedyGo55/refs/heads/master/gpg-public-key.asc)
 
 ## 🌐 Socials:
